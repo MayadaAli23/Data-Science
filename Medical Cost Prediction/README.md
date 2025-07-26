@@ -92,6 +92,10 @@ This project demonstrates a complete end-to-end regression pipeline:
 - Jupyter Notebook
 
 ---
+## 📥 How to View
+To explore the dashboard:
+1. Download the `.pbix` file
+2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
 ## 📌 Author
 
